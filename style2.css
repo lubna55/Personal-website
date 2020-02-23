@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', ;
+    
+}
+
+section{
+    
+    height: 500px;
+    padding-bottom: 150px;
+    
+
+}
+
+.ami{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+p{
+    color: rgb(97, 91, 91);
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(202, 146, 26);
+}
+#jerry{
+    color: rgb(226, 43, 156);
+    font-size: 60px;
+}
+#jerry:hover{
+    font-size: 65px;
+
+}
+.centre{
+    text-align: center;
+}
+
+.tumi{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg lightSalmon, tomato);
+    background-color: rgb(223, 158, 220);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.anchor-button:hover{
+    font-size: 25px;
+}
+
+.second{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.third{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+
+.third-section{
+    width: 22%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.what{
+    text-align: center;
+    color: black;
+}
+#first{
+    font-size: 20px;
+}
+#a{
+    font-size: 15px;
+}
+
+.last{
+    text-align: center;
+    padding: 2%;
+    
+    border-radius: 10px;
+    height: 20%;
+    width: 100%;
+    background-color:rgb(218, 111, 191);
+
+
+}
+.sesh{
+    width: 40%;
+    float: inline-end;
+    margin-left: 30%;
+    padding: 2%;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    
+}
+footer{
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+}
